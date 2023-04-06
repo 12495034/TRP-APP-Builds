@@ -6,7 +6,13 @@ Only production released apk's are stored in this repository.
 
 ## Recieved Email invitation to perform app testing
 
-1.
+1. If you have a previous version of the app currently installed, please uninstall it first
+2. Click on the download link
+3. When prompted if you want to download the file again, select 'Download Again' as the apk will be a new version
+4. Select the apk to install
+5. When prompted 'Do you want to install this application?', select 'INSTALL'
+6. A prompt may appear 'Unsafe app blocked'. This occurs as 'Google play' is not aware of the app or its developer. Expand 'More details' and press 'install anway'
+7. Press Open to launch the app
 
 Thanks to https://www.maketecheasier.com/install-apps-from-unknown-sources-android/ for the process
 
