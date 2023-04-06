@@ -29,7 +29,7 @@ Since Android 8.0, the method to install apps from unknown sources has changed. 
 
 ![image](https://user-images.githubusercontent.com/94055886/230466348-c7487e51-88b8-4d47-8ad6-4f23e18eb537.png)
 
-4. Tap on the app you will use to install the third-party apps. This is usually a browser or the Files app. We’re using Chrome for this example.
+4. Tap on the app you will use to install the third-party apps. This is usually a browser or the Files app. We’re using Chrome for this example. However, if you were invited via email then the 'Email' app you use should be toggled aswell.
 
 ![image](https://user-images.githubusercontent.com/94055886/230466551-146fbbf4-adf6-4480-b930-c8c11724ed9b.png)
 
