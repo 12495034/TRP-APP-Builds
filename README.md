@@ -2,7 +2,7 @@
 Released versions of Rapid HIV &amp; Syphilis testing mobile app
 
 This repository exists to facilitate user testing of a Rapid HIV & syphilis test booking system developed for the rainbow project.
-Only production released apk's are stored in this repository.
+Only test version apk's are stored in this repository.
 
 ## Recieved Email invitation to perform app testing
 
