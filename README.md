@@ -8,7 +8,7 @@ User testing with iOS devices will be planned at a later stage.
 ## Recieved Email invitation to perform app testing
 
 1. If you have a previous version of the app currently installed, please uninstall it first
-2. Click on the download link
+2. Click on the download link provided in the testing invitation email.
 3. When prompted if you want to download the file again, select 'Download Again' as the apk will be a new version
 4. Select the apk to install
 5. When prompted 'Do you want to install this application?', select 'INSTALL'
