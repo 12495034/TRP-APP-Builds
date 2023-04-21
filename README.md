@@ -1,4 +1,4 @@
-# TRP-APP-Builds
+# TRP-Mobile APP-User Testing
 Released versions of Rapid HIV &amp; Syphilis testing mobile app
 
 This repository exists to facilitate user testing of a Rapid HIV & syphilis test booking system developed for the rainbow project.
