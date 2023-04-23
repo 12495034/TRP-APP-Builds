@@ -9,7 +9,7 @@ User testing with iOS devices will be planned at a later stage.
 
 1. If you have a previous version of the app currently installed, please uninstall it first
 2. Click on the download link provided in the testing invitation email.
-3. When prompted if you want to download the file again, select 'Download Again' as the apk will be a new version
+3. If prompted 'do you want to download the file again', select 'Download Again' as the apk may be be a new version
 4. Select the apk to install
 5. When prompted 'Do you want to install this application?', select 'INSTALL'
 6. A prompt may appear 'Unsafe app blocked'. This occurs as 'Google play' is not aware of the app or its developer. Expand 'More details' and press 'install anway'
